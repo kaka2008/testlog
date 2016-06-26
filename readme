@@ -1,0 +1,7 @@
+##演示log4j和commons-logging的用法
+
+log4j.properties中配置了三种输出方式：控制台、文件、以及数据库
+在TestLog.java中，输出4中错误日志
+
+使用Commons-logging来输出日志
+
